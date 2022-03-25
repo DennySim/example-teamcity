@@ -1,2 +1,2 @@
-test
-test2
+- [Конфигурация Teamcity](https://github.com/DennySim/example-teamcity/tree/master/.teamcity/Netology)
+- [netology_Build_log](netology_Build_13.log)
